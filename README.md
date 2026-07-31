@@ -11,12 +11,12 @@ A powerful, visually stunning, and entirely self-contained AI Search Engine & Id
 
 ## 🚀 How to Use
 It couldn't be simpler to get started:
-1. Download the repository (or just grab the HTML file from the `App/` folder).
+1. Download the repository (or just grab the HTML file).
 2. Double-click `ToolScout.html` to open it in your favorite web browser (Chrome, Firefox, Safari, Edge).
 3. Drop in your API key and start ideating!
 
 ```
-App/ToolScout.html
+ToolScout.html
 ```
 
 *(Yes, it's really that easy. No `npm install`, no servers to start!)*
